@@ -5,13 +5,12 @@
 **1. Clone the application**
 
 ```bash
-https://github.com/givanthak/spring-boot-rest-api-tutorial.git
+https://github.com/headit74/GuruTestBackend_SpringBoot.git
 ```
 
 **2. Create Mysql database**
-```bash
-create database user_database
-```
+
+create a database in mysql named as ``users_database``
 
 **3. Change mysql username and password as per your installation**
 
