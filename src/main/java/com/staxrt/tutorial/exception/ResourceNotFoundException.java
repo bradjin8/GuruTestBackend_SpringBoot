@@ -1,6 +1,6 @@
 /*
  *
- *  Copyright (c) 2018-2020 Givantha Kalansuriya, This source is a part of
+ *  Copyright (c) 2018-2020 Xing Jin, This source is a part of
  *   Staxrt - sample application source code.
  *   http://staxrt.com
  *
@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 /**
  * The type Resource not found exception.
  *
- * @author Givantha Kalansuriya
+ * @author Xing Jin
  */
 @ResponseStatus(value = HttpStatus.NOT_FOUND)
 public class ResourceNotFoundException extends Exception {

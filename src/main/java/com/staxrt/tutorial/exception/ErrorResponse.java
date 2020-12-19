@@ -1,6 +1,6 @@
 /*
  *
- *  Copyright (c) 2018-2020 Givantha Kalansuriya, This source is a part of
+ *  Copyright (c) 2018-2020 Xing Jin, This source is a part of
  *   Staxrt - sample application source code.
  *   http://staxrt.com
  *
@@ -25,7 +25,7 @@ import java.util.Date;
 /**
  * The type Error response.
  *
- * @author Givantha Kalansuriya
+ * @author Xing Jin
  */
 public class ErrorResponse {
 
